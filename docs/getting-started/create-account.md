@@ -8,14 +8,14 @@ sidebar_position: 1
 
 Go to [Client Panel](https://client.lyxia.net/register) :
 
-- go to the above link and fill the details to register (country field is required).
+- Go to the above link and fill the details to register (The country field is required for verification purposes).
 
-- then verify your email with the verification link sent to your email (email used while registering).
-
-
+- Verify your email with the verification link sent to your email (Email used while registering, make sure to check spam!).
 
 
-- **your account has been successfully created :D , now get your [first free server](https://docs.lyxia.net/docs/getting-started/create-a-server)**
+
+
+- **Your account has been successfully created :D, now get your [first free server](https://docs.lyxia.net/docs/getting-started/create-a-server)**
 
 
 
